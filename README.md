@@ -1,2 +1,2 @@
-# Rea Time Calculator
+# Real Time Calculator
  Calculates the values for handwritten equations.
